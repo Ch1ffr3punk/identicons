@@ -15,13 +15,12 @@ billions of possible variations — all deterministic (same input → same icon)
 
 ## ✨ Features
 
-🔹 Deterministic — same input always produces the same identicon
-🔹 Billions of variations — unique visuals even for similar inputs
-🔹 Two-color layers — rich, layered visuals without clutter
-🔹 Dark/Light theme support — adapts to your system
-🔹 Export as PNG — with transparent or white background
-🔹 Compatible with yubicrypt — paste a hex-encoded public key to see the same identicon
-🔹 Zero dependencies — pure Go + Fyne
+🔹 Deterministic — same input always produces the same identicon  
+🔹 Billions of variations — unique visuals even for similar inputs  
+🔹 Two-color layers — rich, layered visuals without clutter  
+🔹 Dark/Light theme support — adapts to your system  
+🔹 Export as PNG — with transparent or white background  
+🔹 Compatible with yubicrypt — paste a hex-encoded public key to see the same identicon  
 
 ## How to Use
 
@@ -36,4 +35,5 @@ Click “Generate Identicon” → your unique visual fingerprint appears.
 ## To match yubicrypt identicons:
 
 → Copy the hex-encoded public key from yubicrypt
+
 → Paste it here → generate → you’ll see the exact same identicon

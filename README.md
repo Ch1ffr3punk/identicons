@@ -34,7 +34,8 @@ Click “Generate Identicon” → your unique visual fingerprint appears.
 
 ## To match yubicrypt identicons:
 
-→ Copy the hex-encoded public key from yubicrypt
+→ Copy the hex-encoded signature component from yubicrypt
 
 → Paste it here → generate → you’ll see the exact same identicon
+
 

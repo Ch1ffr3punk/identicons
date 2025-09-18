@@ -20,7 +20,7 @@ billions of possible variations — all deterministic (same input → same icon)
 🔹 Two-color layers — rich, layered visuals without clutter  
 🔹 Dark/Light theme support — adapts to your system  
 🔹 Export as PNG — with transparent or white background  
-🔹 Compatible with yubicrypt — paste a hex-encoded public key to see the same identicon  
+🔹 Compatible with yubicrypt   
 
 ## How to Use
 
@@ -37,3 +37,4 @@ Click “Generate Identicon” → your unique visual fingerprint appears.
 → Copy the hex-encoded public key from yubicrypt
 
 → Paste it here → generate → you’ll see the exact same identicon
+

@@ -2,6 +2,7 @@
 
 A beautiful, deterministic identicon generator for keys, text, passwords,
 and more. Compatible with [yubicrypt](https://github.com/Ch1ffr3punk/yubicrypt) when using hex-encoded public keys. 
+
 ![identicons](img/1.png)
 
 ## What are Identicons?
@@ -38,4 +39,5 @@ Click “Generate Identicon” → your unique visual fingerprint appears.
 Copy the hex-encoded signature component from yubicrypt.
 
 Paste it here → generate → you’ll see the exact same identicon.  
+
 
